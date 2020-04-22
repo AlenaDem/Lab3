@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1587493627 source:c:\users\emily\desktop\uni\labs\s2lab3\main.cpp
+	<iostream>
+	<string>
+	"Person.h"
+	"Programmer.h"
+	"Client.h"
+	"Supervisor.h"
+
+1587491229 c:\users\emily\desktop\uni\labs\s2lab3\person.h
+	<string>
+	<iostream>
+
+1587330813 source:c:\users\emily\desktop\uni\labs\s2lab3\person.cpp
+	"Person.h"
+
+1587492882 source:c:\users\emily\desktop\uni\labs\s2lab3\employee.cpp
+	"Employee.h"
+
+1587492882 c:\users\emily\desktop\uni\labs\s2lab3\employee.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1587492882 c:\users\emily\desktop\uni\labs\s2lab3\programmer.h
+	<string>
+	<iostream>
+	"Employee.h"
+
+1587493020 source:c:\users\emily\desktop\uni\labs\s2lab3\client.cpp
+	"Client.h"
+
+1587492882 c:\users\emily\desktop\uni\labs\s2lab3\client.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1587493020 source:c:\users\emily\desktop\uni\labs\s2lab3\programmer.cpp
+	"Programmer.h"
+
+1587493020 source:c:\users\emily\desktop\uni\labs\s2lab3\supervisor.cpp
+	"Supervisor.h"
+
+1587492882 c:\users\emily\desktop\uni\labs\s2lab3\supervisor.h
+	<string>
+	<iostream>
+	"Employee.h"
+
