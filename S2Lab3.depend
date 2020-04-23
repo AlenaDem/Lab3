@@ -46,3 +46,42 @@
 	<iostream>
 	"Employee.h"
 
+1587637773 source:c:\git\lab3\client.cpp
+	"Client.h"
+
+1587637773 c:\git\lab3\client.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1587638618 c:\git\lab3\person.h
+	<string>
+	<iostream>
+
+1587637773 source:c:\git\lab3\employee.cpp
+	"Employee.h"
+
+1587637773 c:\git\lab3\employee.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1587637773 source:c:\git\lab3\person.cpp
+	"Person.h"
+
+1587637773 source:c:\git\lab3\programmer.cpp
+	"Programmer.h"
+
+1587637773 c:\git\lab3\programmer.h
+	<string>
+	<iostream>
+	"Employee.h"
+
+1587637773 source:c:\git\lab3\supervisor.cpp
+	"Supervisor.h"
+
+1587637773 c:\git\lab3\supervisor.h
+	<string>
+	<iostream>
+	"Employee.h"
+
