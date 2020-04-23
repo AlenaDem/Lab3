@@ -8,7 +8,7 @@
 using namespace std;
 
 class Employee : public Person {
-    virtual void print() = 0;
+    virtual void print() const = 0;
 public:
     Employee(string name, string surname, int year);
 };

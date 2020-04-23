@@ -6,13 +6,13 @@ Programmer::Programmer(string name, string surname, int year, string name_of_pro
 {
 }
 
-void Programmer::print() {
+void Programmer::print() const {
     cout << "Programmer(" << name << ", " << surname << ", " << year << ", " << name_of_project << ")\n";
 }
 
 void Programmer::set_name_of_project(string pr_cl_name_of_project) {
         name_of_project = pr_cl_name_of_project;
     }
-string Programmer::get_name_of_project() {
+string Programmer::get_name_of_project() const {
     return name_of_project;
 }

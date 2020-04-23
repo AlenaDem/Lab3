@@ -27,7 +27,7 @@ void Person::set_name(string person_name) {
     name = person_name;
 }
 
-string Person::get_name() {
+string Person::get_name() const {
     return name;
 }
 
@@ -35,7 +35,7 @@ void Person::set_surname(string person_surname) {
     surname = person_surname;
 }
 
-string Person::get_surname() {
+string Person::get_surname() const {
     return surname;
 }
 
@@ -43,6 +43,6 @@ void Person::set_year(int person_year) {
     year = person_year;
 }
 
-int Person::get_year() {
+int Person::get_year() const {
     return year;
 }
