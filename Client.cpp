@@ -13,3 +13,7 @@ void Client::print() {
 void Client::set_name_of_project(string pr_cl_name_of_project) {
         name_of_project = pr_cl_name_of_project;
     }
+
+string Client::get_name_of_project() {
+    return name_of_project;
+}

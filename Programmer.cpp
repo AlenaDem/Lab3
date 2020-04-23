@@ -13,3 +13,6 @@ void Programmer::print() {
 void Programmer::set_name_of_project(string pr_cl_name_of_project) {
         name_of_project = pr_cl_name_of_project;
     }
+string Programmer::get_name_of_project() {
+    return name_of_project;
+}
