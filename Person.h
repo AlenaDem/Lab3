@@ -26,4 +26,5 @@ public:
     virtual int get_year();
 };
 
+
 #endif // PERSON_H_INCLUDED

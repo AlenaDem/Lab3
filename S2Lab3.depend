@@ -54,7 +54,7 @@
 	<iostream>
 	"Person.h"
 
-1587638618 c:\git\lab3\person.h
+1587639100 c:\git\lab3\person.h
 	<string>
 	<iostream>
 
@@ -84,4 +84,12 @@
 	<string>
 	<iostream>
 	"Employee.h"
+
+1587638558 source:c:\git\lab3\main.cpp
+	<iostream>
+	<string>
+	"Person.h"
+	"Programmer.h"
+	"Client.h"
+	"Supervisor.h"
 
